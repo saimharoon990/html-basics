@@ -17,3 +17,11 @@ p[draggable] {
 .orange {
     background-color: lightsalmon;
 }
+
+.size {
+    font-size: x-large;
+}
+
+.saim {
+    font-size: xx-large;
+}
