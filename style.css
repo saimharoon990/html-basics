@@ -4,6 +4,7 @@ html {
 
 h1 {
     color: darkslateblue;
+    font-family: sans-serif;
 }
 
 #main {
@@ -24,4 +25,8 @@ p[draggable] {
 
 .saim {
     font-size: xx-large;
+}
+
+.link {
+    margin: 20px;
 }
