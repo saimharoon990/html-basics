@@ -27,6 +27,7 @@ p[draggable] {
     font-size: xx-large;
 }
 
-.link {
-    margin: 203px;
+.hero-section {
+    background-color: darkgoldenrod;
+    padding: 40px 20px;
 }
