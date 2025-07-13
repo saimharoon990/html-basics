@@ -35,13 +35,3 @@ p[draggable] {
 .contact {
     background-color: darkgray;
 }
-
-.test {
-    width: 650px;
-    height: 250px;
-    background-image: url("https://i.pinimg.com/1200x/19/94/ac/1994acceeedfaa2e4687f10d90d0a641.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    border: 2px solid #333;
-}
