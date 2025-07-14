@@ -25,6 +25,7 @@ p[draggable] {
 
 .saim {
     font-size: xx-large;
+    position: absolute;
 }
 
 .hero-section {
