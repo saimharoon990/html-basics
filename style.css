@@ -54,3 +54,19 @@ p[draggable] {
     top: 200px;
     left: 200px;
 }
+
+.fixed {
+    position: fixed;
+}
+
+.inline {
+    display: inline block;
+}
+
+.box {
+    float: right;
+}
+
+.HELLO {
+    float: right;
+}
