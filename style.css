@@ -70,3 +70,11 @@ p[draggable] {
 .HELLO {
     float: right;
 }
+
+.img {
+    float: left;
+}
+
+.footer {
+    clear: both;
+}
