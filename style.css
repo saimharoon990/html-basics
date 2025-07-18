@@ -78,3 +78,18 @@ p[draggable] {
 .footer {
     clear: both;
 }
+
+.col1 {
+    background-color: blue;
+    width: 25%;
+}
+
+.col2 {
+    background-color: blue;
+    width: 25%;
+}
+
+.col3 {
+    background-color: blue;
+    width: 40%
+}
