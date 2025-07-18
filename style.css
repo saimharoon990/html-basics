@@ -93,3 +93,17 @@ p[draggable] {
     background-color: blue;
     width: 40%
 }
+
+.col5 {
+    float: right end;
+    width: 25%;
+}
+
+.col6 {
+    float: right end;
+    width: 25%;
+}
+
+.coll {
+    width: 40%
+}
