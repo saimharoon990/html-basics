@@ -15,7 +15,7 @@ p[draggable] {
     background-color: darkseagreen;
 }
 
-.orange {
+.salmon {
     background-color: lightsalmon;
 }
 
@@ -106,4 +106,31 @@ p[draggable] {
 
 .coll {
     width: 40%
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.container {
+    color: white;
+    border: 5px solid gold;
+    display: inline-flex;
+    flex-direction: column;
 }
