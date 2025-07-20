@@ -1,4 +1,4 @@
-html {
+.html {
     background-color: antiquewhite;
 }
 
@@ -53,10 +53,6 @@ p[draggable] {
     position: relative;
     top: 200px;
     left: 200px;
-}
-
-.fixed {
-    position: fixed;
 }
 
 .inline {
@@ -133,4 +129,27 @@ p[draggable] {
     border: 5px solid gold;
     display: inline-flex;
     flex-direction: column;
+}
+
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: #f0d9b5;
+}
+
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: #b58863;
+}
+
+.chess {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+
+}
+
+.background {
+    background-color: white;
 }
