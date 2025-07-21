@@ -11,14 +11,6 @@ h1 {
     color: blueviolet;
 }
 
-p[draggable] {
-    background-color: darkseagreen;
-}
-
-.salmon {
-    background-color: lightsalmon;
-}
-
 .size {
     font-size: x-large;
 }
@@ -150,6 +142,10 @@ p[draggable] {
 
 }
 
-.background {
+.ok {
     background-color: white;
+}
+
+.background {
+    background-color: antiquewhite;
 }
