@@ -1,7 +1,3 @@
-.html {
-    background-color: antiquewhite;
-}
-
 h1 {
     color: darkslateblue;
     font-family: sans-serif;
@@ -139,13 +135,4 @@ h1 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-
-}
-
-.ok {
-    background-color: white;
-}
-
-.background {
-    background-color: antiquewhite;
 }
