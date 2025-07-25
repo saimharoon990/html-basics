@@ -136,3 +136,7 @@ h1 {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
+
+.navbarnavbar-expand-lgbg-body-tertiary {
+    padding: 6px 5px
+}
