@@ -144,3 +144,9 @@ h1 {
 .ages {
     font-family: sans-serif;
 }
+
+.huge {
+    font-size: 10rem;
+    color: red;
+    font-weight: bold;
+}
